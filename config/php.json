@@ -1,0 +1,14 @@
+{
+  "apiPackage" : "",
+  "modelPackage" : "Model",
+  "variableNamingConvention": "camelCase",
+  "invokerPackage": "Psa\\ConnectedCar",
+  "packagePath": "psa-connected-car-sdk-php",
+  "srcBasePath": "src",
+  "composerVendorName": "garygitton",
+  "gitUserId": "garygitton",
+  "composerProjectName": "psa-connected-car-sdk-php",
+  "gitRepoId": "psa-connected-car-sdk-php",
+  "artifactVersion": "1.0.0",
+  "hideGenerationTimestamp": true
+}
